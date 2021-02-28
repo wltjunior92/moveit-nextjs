@@ -109,3 +109,12 @@
   filter: brightness(0.9);
 }
 
+@media(max-width: 720px) {
+  .challengeActive footer {
+    margin-top: 1.5rem;
+  }
+
+  .challengeActive main {
+    margin-top: 1.5rem;
+  }
+}
